@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-![Trade bot signal](/trade Untitled.png)
+![Trade bot signal](/trade.png)
 
 This project showcases a fully functional **crypto trading bot** powered by real-time logic, technical indicators, and Python automation. Designed to simulate trading on platforms like Binance or Coinbase, this bot implements a **V3 trading strategy** using **price momentum, support/resistance zones**, and algorithmic decision-making.
 
